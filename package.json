@@ -1,0 +1,23 @@
+{
+  "name": "handlebars-project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://stanlettee.github.io/handlebars-project/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --no-cache --public-url /handlebars-project",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel-reporter-clean-dist": "^1.0.4"
+  }
+}
