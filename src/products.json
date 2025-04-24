@@ -1,27 +1,20 @@
 [
     {
-        "title": "apple",
-        "photo": "https://static.wikia.nocookie.net/fruits-information/images/2/2b/Apple.jpg/revision/latest/scale-to-width-down/1200?cb=20180802112257",
-        "price": 50
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500,
+        "description": "A high-performance laptop for all your needs."
     },
     {
-        "title": "potato",
-        "photo": "https://images.seattletimes.com/wp-content/uploads/2024/04/04082024_OpEd-Potatoes_124536.jpg?d=780x569",
-        "price": 40
+        "id": 2,
+        "name": "Smartphone",
+        "price": 700,
+        "description": "A modern smartphone with an excellent camera."
     },
     {
-        "title": "parsley",
-        "photo": "https://beechmount.ie/wp-content/uploads/2020/04/Parsley.jpg",
-        "price": 80
-    },
-    {
-        "title": "tomato",
-        "photo": "https://m.economictimes.com/thumb/msid-95423731,width-1200,height-900,resizemode-4,imgsize-56196/tomatoes-canva.jpg",
-        "price": 60
-    },
-    {
-        "title": "cucumber",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT19UUTLodCwKT1sEjgfdbWn8WLfiJ3D2d4Q&s",
-        "price": 90
+        "id": 3,
+        "name": "Headphones",
+        "price": 200,
+        "description": "Noise-cancelling headphones for better focus."
     }
 ]
