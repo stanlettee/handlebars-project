@@ -2,7 +2,7 @@
   "name": "handlebars-project",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://stanlettee.github.io/handlebars-project/",
+  "homepage": "https://stanlettee.github.io/homework-7redo/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
